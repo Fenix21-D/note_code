@@ -1,0 +1,2 @@
+Añadir cambios al ultimo comit sin editar
+git commit --amend --no-edit
